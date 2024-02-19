@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhishek and I'm a Aspiring Software Developer</h2>
+<h2 align="left">Hi ! My name is Abhishek and I'm a Aspiring Software Developer</h2>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
