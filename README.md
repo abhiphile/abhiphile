@@ -3,7 +3,7 @@
   <div style="width: 100%; height: 200px; overflow: hidden;">
   <img src="https://raw.githubusercontent.com/abhiphile/abhiphile/main/mario-gif.gif" style="width: 100%; margin-top: -50px;"></div>
   
-  ## Hi! Welcome to my Github !!
+  ## Hi! Welcome to my Github !
 
   ### Github Stats
 
