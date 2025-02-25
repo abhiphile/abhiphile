@@ -57,9 +57,6 @@ In addition to coding, I’m always keen on learning new tech and tackling chall
     <a href="https://medium.com/@krabhishek_">
       <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
     </a>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=abhiphile&icon=0&color=0" alt="Profile Visit Count">
-    </a>
   </div>
 
 </div>
