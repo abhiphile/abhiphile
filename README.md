@@ -28,7 +28,7 @@ In addition to coding, I’m always keen on learning new tech and tackling chall
 
   <!-- Most Used Languages -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhiphile&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abhiphile&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
   <!-- GitHub Activity Graph -->
   ![](https://nirzak-streak-stats.vercel.app/?user=abhiphile&theme=dark&hide_border=false)<br/>
