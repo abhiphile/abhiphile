@@ -39,14 +39,11 @@ In addition to coding, I’m always keen on learning new tech and tackling chall
   </div>
 
   <!-- Most Used Languages -->
-  <div>
-    <img loading="lazy" width="325" src="https://github-readme-stats-mnex.vercel.app/api/top-langs/?username=abhiphile&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&theme=react&text_color=FFFFFF&bg_color=0D1117&title_color=EB008B&langs_count=8&layout=compact&hide_border=true" alt="Top Languages">
-  </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhiphile&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
   <!-- GitHub Activity Graph -->
-  <div>
-    <img loading="lazy" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=abhiphile&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </div>
+  ![](https://nirzak-streak-stats.vercel.app/?user=abhiphile&theme=dark&hide_border=false)<br/>
 
   ### Connect with Me
 
