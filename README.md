@@ -50,8 +50,11 @@
 
 <div align="center">
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiphile&show_icons=true&theme=tokyonight)
-<img src="https://nirzak-streak-stats.vercel.app/?user=abhiphile&theme=tokyonight&hide_border=false" height="180px">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiphile&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abhiphile&theme=tokyonight&hide_border=false" height="180px"/>
+</p>
+
 
 </div>
 
