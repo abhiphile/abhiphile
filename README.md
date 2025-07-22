@@ -8,8 +8,7 @@
   <h2>Hi there! 👋 Welcome to my GitHub</h2>
 
   <p>
-    I'm <b>Abhishek Kumar</b>, a final-year ECE student at <b>NIT Delhi</b>, with a minor in AI/ML.<br/>
-    I specialize in backend engineering, control systems, and high-performance software development.
+    I'm <b>Abhishek Kumar</b>, a software developer. 
   </p>
 
   <p>
