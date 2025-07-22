@@ -39,10 +39,10 @@
 | Project | Description | Tech Stack | Demo |
 |--------|-------------|------------|------|
 | **🧠 SymPy GSoC Control Module** | Enhanced Python's symbolic math system with advanced control systems functionality (Nyquist, Nichols, PID) | Python, SymPy | [View PRs](https://github.com/sympy/sympy/pulls?q=is%3Apr+author%3Aabhiphile+gsoc) |
-| **🔗 CacheIt** | High-performance C++ in-memory caching server using sockets, epoll, Dockerized with benchmarking in Python. An alternative to Redis. | C++, Epoll, Docker, Python | [Live Demo](https://github.com/abhiphile/CacheIt) |
-| **📊 Resume Analyzer** | AI-powered resume scoring app using LLMs (Gemini API), FastAPI backend, and PostgreSQL | FastAPI, LLMs, PostgreSQL | [Live Demo](https://github.com/abhiphile/resume-analyzer) |
-| **🌐 Portfolio Website** | Responsive personal portfolio built with Next.js and deployed via Vercel. | Next.js, Tailwind CSS | [Live Site](https://abhiphile.vercel.app) |
-| **📁 MCP Server for Math** | Built a compute server for executing symbolic math using SymPy and NumPy with dynamic task execution via LLM prompts. | Python, SymPy, NumPy | [Repository](https://github.com/abhiphile/mcp-server) |
+| **🔗 CacheIt** | High-performance C++ in-memory caching server using sockets, epoll, Dockerized with benchmarking in Python. An alternative to Redis. | C++, Epoll, Docker, Python | [Live Demo](https://github.com/abhiphile/cacheit) |
+| **📊 CV Expert** | AI-powered resume scoring app using LLMs (Gemini API), FastAPI backend, and PostgreSQL | FastAPI, LLMs, PostgreSQL | [Live Demo](https://github.com/CvExpert) |
+| **🌐 Portfolio Website** | Responsive personal portfolio built with Next.js and deployed via Vercel. | Next.js, Tailwind CSS | [Live Site](portfolio.abhishekcode.in) |
+| **📁 MCP Server for Math** | Built a compute server for executing symbolic math using SymPy and NumPy with dynamic task execution via LLM prompts. | Python, SymPy, NumPy | [Repository](https://github.com/abhiphile/fermat-mcp) |
 
 ---
 
